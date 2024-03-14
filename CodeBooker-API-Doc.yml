@@ -625,7 +625,6 @@ paths:
             description: User email
             readOnly: true
 
-
       responses:
         '200':
           description: "Profile created successfully"
